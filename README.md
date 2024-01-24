@@ -1,7 +1,7 @@
 # Olá! Eu sou o Maicon Carvalho 🖐️
 
 
-💼 - Atualmente sou Tech Lead no Itaú Unibanco e ajudo pessoas que desejam entrar no mundo da Tecnologia!
+💼 - Atualmente sou Engenheiro Pleno no Itaú Unibanco e ajudo pessoas que desejam entrar no mundo da Tecnologia!
 
 📜 - Meus estudos estão direcionados atualmente para AWS, Nodejs, React e React Native
 
