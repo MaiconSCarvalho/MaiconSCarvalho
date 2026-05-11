@@ -62,9 +62,3 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/maiconcarvalho/)  
 💻 [GitHub](https://github.com/Maiconsilvacarvalho)  
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconcarvalho/)
-
-![Maicon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiconSCarvalho&show_icons=true&theme=dracula&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconSCarvalho&layout=compact)](https://github.com/MaiconSCarvalho/github-readme-stats)
